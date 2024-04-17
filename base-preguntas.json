@@ -1,0 +1,28 @@
+[
+    {
+        "categoria": "Ingles",
+        "pregunta": "ugly",
+        "respuesta": "feo",
+        "incorrecta1": "bueno",
+        "incorrecta2": "malo",
+        "incorrecta3": "bien"
+
+    },
+    
+    {
+        "categoria": "Ingles",
+        "pregunta": "dirty",
+        "respuesta": "sucio",
+        "incorrecta1": "limpio",
+        "incorrecta2": "malo",
+        "incorrecta3": "desordenado"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "cheap",
+        "respuesta": "barato",
+        "incorrecta1": "caro",
+        "incorrecta2": "elevado",
+        "incorrecta3": "timar"
+    }
+]
