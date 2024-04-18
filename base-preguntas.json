@@ -24,5 +24,29 @@
         "incorrecta1": "caro",
         "incorrecta2": "elevado",
         "incorrecta3": "timar"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "scope",
+        "respuesta": "alcance",
+        "incorrecta1": "lejos",
+        "incorrecta2": "elevado",
+        "incorrecta3": "escopeta"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "gonna",
+        "respuesta": "ir a",
+        "incorrecta1": "lejos",
+        "incorrecta2": "será",
+        "incorrecta3": "ir"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "gonna be",
+        "respuesta": "será",
+        "incorrecta1": "estar",
+        "incorrecta2": "lejos",
+        "incorrecta3": "ser"
     }
 ]

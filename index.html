@@ -8,33 +8,36 @@
   <style>
     * {
       transition: all 0.3s;
+      margin: 0;
+      padding: 0;
+
     }
 
     body {
-      background: cadetblue;
+      background: rgb(3, 1, 34);
       padding: 0;
       margin: 0;
       text-align: center;
       font-family: calibri;
-      font-size: 120%;
     }
 
     .contenedor {
-      width: 98vw;
-      height: 97vh;
+      width: 95vw;
+      height: 95vh;
       display: inline-flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
+      gap: 10px;
     }
 
     .encabezado {
       position: relative;
-      background: white;
+      background: rgb(159, 226, 238);
       min-width: 300px;
       width: 70%;
       max-width: 600px;
       padding: 10px;
+      border-radius: 10px;
     }
 
     .categoria {
@@ -44,7 +47,9 @@
 
     .pregunta {
       padding: 10px;
+      font-size: 2.5rem;
     }
+
 
     .imagen {
       object-fit: cover;
@@ -59,6 +64,8 @@
       padding: 10px;
       margin: 5px;
       cursor: pointer;
+      border-radius: 10px;
+      font-size: 2rem;
     }
 
     .btn:hover {
@@ -77,6 +84,21 @@
       padding:10px;
       color:white;
     }
+
+
+    @media only screen and (max-width: 1000px)
+    {
+      .pregunta{
+        font-size: 5rem;
+      }
+      .btn {
+        font-size: 4rem;
+      }
+    }
+
+
+
+
   </style>
 
   <div class="contenedor">
@@ -93,7 +115,6 @@
     <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
     <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
     <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
-    
     <script src="index.js"></script>
   </div>
 
