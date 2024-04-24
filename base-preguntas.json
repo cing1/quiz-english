@@ -48,5 +48,38 @@
         "incorrecta1": "estar",
         "incorrecta2": "lejos",
         "incorrecta3": "ser"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "idle",
+        "respuesta": "inactiva",
+        "incorrecta1": "estar",
+        "incorrecta2": "lejos",
+        "incorrecta3": "ser"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "cooling",
+        "respuesta": "enfriamiento",
+        "incorrecta1": "estar",
+        "incorrecta2": "lejos",
+        "incorrecta3": "ser"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "statement",
+        "respuesta": "edeclaracion",
+        "incorrecta1": "estar",
+        "incorrecta2": "lejos",
+        "incorrecta3": "ser"
+    },
+    {
+        "categoria": "Ingles",
+        "pregunta": "scope",
+        "respuesta": "alcance",
+        "incorrecta1": "estar",
+        "incorrecta2": "lejos",
+        "incorrecta3": "ser"
     }
+
 ]
